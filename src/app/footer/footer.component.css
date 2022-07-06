@@ -1,0 +1,21 @@
+.footer{
+
+  height:150px ;
+   width: 150px ;
+   position:relative;
+   top: 50px;
+   left: 80px ;
+}
+
+.heading{
+  
+
+    font-size: 50px;
+    color:rgb(133, 45, 233);
+    text-align: center;
+    position: relative;
+    top: 50px;
+    bottom: 50px;
+  
+  
+}
